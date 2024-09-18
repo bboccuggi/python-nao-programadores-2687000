@@ -4,8 +4,9 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-
+nome = 'Bruna'
 # Declare variáveis de cada tipo numérico
-
-
+numero = 1
+numero2 = 2.0
 # Declare uma variável do tipo booleano
+variavel = True
